@@ -1,6 +1,6 @@
-# Consumer-Credit-Scoring-Model
+# Consumer-Credit-Scoring-Model (SAS)
 
-using SAS
+Consumer Credit Scoring model using data from Lending Club Card (https://www.kaggle.com/datasets/wordsforthewise/lending-club/code)
 
 # Logistic Regression
 The data was split into 0.7:0.3 ratio. Then, it will run logistic regression on training data, and check the performance on the test data. 
