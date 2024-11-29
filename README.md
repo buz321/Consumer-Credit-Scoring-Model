@@ -56,7 +56,8 @@ This project implements a **consumer credit scoring model** using **SAS**, focus
 
 ## Technologies Used
 
-- **Programming Language**: SAS
+- **Programming Language**: ![SAS](https://img.shields.io/badge/SAS-005DAC?style=for-the-badge)
+
 - **Procedures**:
   - `PROC IMPORT`: For importing datasets.
   - `PROC FREQ`: For frequency analysis and exploring data.
